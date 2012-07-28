@@ -1,0 +1,2 @@
+#!/bin/sh
+ruby -Itest -Ilib test/big_toe/stubbing_test.rb
